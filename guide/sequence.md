@@ -20,7 +20,7 @@
 
 :::
 
-举个栗子
+举个例子
 
 ```java
 @KeySequence(value = "SEQ_ORACLE_STRING_KEY", clazz = String.class)
